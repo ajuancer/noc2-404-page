@@ -1,0 +1,23 @@
+{
+  "endpoints": [
+    "/dedication/",
+    "/acknowledgements/",
+    "/introduction/",
+    "/random/",
+    "/vectors/",
+    "/forces/",
+    "/oscillation/",
+    "/particles/",
+    "/autonomous-agents/",
+    "/physics-libraries/",
+    "/cellular-automata/",
+    "/fractals/",
+    "/genetic-algorithms/",
+    "/neural-networks/",
+    "/neuroevolution/",
+    "/appendix-creature/",
+    "/resources/",
+    "/credits/",
+    "/examples/"
+  ]
+}
